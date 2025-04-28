@@ -25,12 +25,12 @@ A simple e-commerce application built with React, Ant Design, and React Router, 
 
 1. Clone the repository:
    
-   git clone https://github.com/ahmad8929/E-Commerce-UI
+   git clone https://github.com/ahmad8929/e-commerce
    
 
 2. Navigate to the project directory:
 
-   cd e-commerce-ui
+   cd e-commerce
    
 
 3. Install the dependencies:
@@ -44,7 +44,7 @@ To start the development server, run:
 
 npm run dev
 
-The application will be accessible at https://e-commerce-8282.netlify.app/
+The application will be accessible at https://e-commerce8929.netlify.app/
 
 ## Usage
 
